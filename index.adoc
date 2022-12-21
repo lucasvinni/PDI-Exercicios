@@ -872,7 +872,7 @@ int main(int argc, char** argv){
 ----
 
 image::11.png[title="Resultado."]
-== Filtragem no domínio da frequência
+== Quantização vetorial com k-means
 === Exercício Kmeans
 [source, cpp]
 ----
