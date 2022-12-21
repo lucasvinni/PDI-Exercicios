@@ -872,8 +872,11 @@ int main(int argc, char** argv){
 ----
 
 image::11.png[title="Resultado."]
+
+
 == Quantização vetorial com k-means
 === Exercício Kmeans
+
 [source, cpp]
 ----
 #include <opencv2/opencv.hpp>
